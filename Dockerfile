@@ -8,7 +8,7 @@
 FROM phusion/baseimage:latest
 
 
-MAINTAINER Melchor O. Abcede <melchabcede@gmail.com>
+MAINTAINER Melchor O. Abcede <melchor.abcede@loannotify.com>
 
 
 RUN DEBIAN_FRONTEND=noninteractive
